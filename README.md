@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **irenemaria0606@gmail.com**
 
-- ☕ Fun fact **I'm a mochachino person and love to learn something new.**
+- ☕ Fun fact **I'm a mochaccino person and love to learn something new.**
 
 <br/>
 
