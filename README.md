@@ -3,7 +3,7 @@
 
 ## 🙋🏻‍♀️ About Me 
 
-- 🔭 I’m currently persue a degree in  Multimedia Nusantara University
+- 🔭 I'm currently pursuing a degree in Multimedia Nusantara University
 
 - 🌱 I’m currently majoring in Information System
 
