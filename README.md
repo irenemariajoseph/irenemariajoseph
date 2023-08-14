@@ -29,8 +29,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/irenemariajoseph/github-readme-activity-graph"><img alt="Irene Maria's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=irenemariajoseph&bg_color=0D1117&color=F9CA24&line=F9CA24&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
